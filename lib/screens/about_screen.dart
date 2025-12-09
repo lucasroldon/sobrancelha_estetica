@@ -27,7 +27,7 @@ class AboutScreen extends StatelessWidget {
                     ),
                     const SizedBox(height: 16),
                     Text(
-                      'O Brow App é uma aplicação moderna desenvolvida com Flutter e Material Design 3, oferecendo uma experiência única para profissionais e clientes de estética de sobrancelhas.',
+                      'O Brow App é uma aplicação moderna oferecendo uma experiência única para profissionais e clientes de estética de sobrancelhas.',
                       style: Theme.of(context).textTheme.bodyLarge,
                     ),
                     const SizedBox(height: 16),
@@ -39,7 +39,7 @@ class AboutScreen extends StatelessWidget {
                     _buildFeatureItem(context, 'Design moderno e intuitivo'),
                     _buildFeatureItem(context, 'Animações suaves e nativas'),
                     _buildFeatureItem(context, 'Interface responsiva'),
-                    _buildFeatureItem(context, 'Material Design 3'),
+                    _buildFeatureItem(context, 'Cores que refletem a felicidade'),
                   ],
                 ),
               ),
