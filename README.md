@@ -1,6 +1,6 @@
 # Brow App
 
-Aplicativo Flutter completo para estética de sobrancelhas com Material Design 3.
+Aplicativo Flutter completo para estética de sobrancelhas desenvolvido pelo developer Lucas Roldon.
 
 ## Estrutura do Projeto
 
@@ -20,23 +20,4 @@ lib/
 └── services/              # Serviços e lógica de negócio
 ```
 
-## Características
-
-- ✅ Material Design 3 (Material You)
-- ✅ Tema moderno com cores suaves
-- ✅ Animações nativas (Fade + Slide)
-- ✅ Rotas nomeadas
-- ✅ Todas as telas com scroll
-- ✅ Transições animadas entre telas
-
-## Como Executar
-
-1. Certifique-se de ter o Flutter instalado
-2. Execute `flutter pub get` para instalar as dependências
-3. Execute `flutter run` para iniciar o aplicativo
-
-## Requisitos
-
-- Flutter SDK >= 3.0.0
-- Dart SDK >= 3.0.0
-
+App ainda em desenvolvimento. 
